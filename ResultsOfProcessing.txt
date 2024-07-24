@@ -1,0 +1,68 @@
+File: testdata2.txt
+Lines: 5, Words: 52, Characters: 328
+Word Frequencies:
+| Word | Count | Relative Frequency |
+|------|-------|-------------------|
+| the | 6 | 11.54% |
+| of | 3 | 5.77% |
+| and | 3 | 5.77% |
+| united | 2 | 3.85% |
+| states | 2 | 3.85% |
+| to | 2 | 3.85% |
+| establish | 2 | 3.85% |
+| for | 2 | 3.85% |
+| we | 1 | 1.92% |
+| people | 1 | 1.92% |
+| in | 1 | 1.92% |
+| order | 1 | 1.92% |
+| form | 1 | 1.92% |
+| a | 1 | 1.92% |
+| more | 1 | 1.92% |
+| perfect | 1 | 1.92% |
+| union | 1 | 1.92% |
+| justice | 1 | 1.92% |
+| insure | 1 | 1.92% |
+| domestic | 1 | 1.92% |
+| tranquility | 1 | 1.92% |
+| provide | 1 | 1.92% |
+| common | 1 | 1.92% |
+| defence | 1 | 1.92% |
+| promote | 1 | 1.92% |
+| general | 1 | 1.92% |
+| welfare | 1 | 1.92% |
+| secure | 1 | 1.92% |
+| blessings | 1 | 1.92% |
+| liberty | 1 | 1.92% |
+| ourselves | 1 | 1.92% |
+| our | 1 | 1.92% |
+| posterity | 1 | 1.92% |
+| do | 1 | 1.92% |
+| ordain | 1 | 1.92% |
+| this | 1 | 1.92% |
+| constitution | 1 | 1.92% |
+| america | 1 | 1.92% |
+Letter Frequencies:
+e: 39
+t: 29
+o: 25
+i: 20
+s: 20
+r: 20
+n: 17
+a: 14
+d: 11
+u: 10
+h: 9
+l: 9
+f: 9
+c: 8
+m: 7
+p: 6
+b: 4
+y: 3
+w: 2
+v: 2
+g: 2
+j: 1
+q: 1
+
